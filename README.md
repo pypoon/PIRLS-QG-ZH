@@ -2,7 +2,12 @@
 This repository is open-sourcing the data and code used in the [*PIRLS category-specific question generation for reading comprehension*](https://hdl.handle.net/10062/107171).
 
 ## Data
-(to be updated)
+|Dataset                 | Training set (fine-tuning)           | Test set |
+| :-------------------- | :----------------------------------------------------: | :----------------------------------------------------------: |
+| Source | Published Chinese storybooks | TSA |
+| Excel file name | training (fine-tuning) set <sup>[1]</sup> | test set with generated questions & answers |
+
+[1] Articles have been replaced with article IDs due to copyright restrictions. If you would like to access the article contents for academic use, please contact Dr. Chu, the last author of the paper (skwchu@hkmu.edu.hk).
 
 ## Code
 (to be updated)
